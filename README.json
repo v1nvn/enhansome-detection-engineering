@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-02-04T11:08:03Z",
             "owner": "Neo23x0",
             "repo": "sigma",
-            "stars": 10098
+            "stars": 10099
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-02-07T07:09:05Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1569
+            "stars": 1568
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2025-11-27T15:05:27Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1753
+            "stars": 1754
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-02-07T05:04:30Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-01-08T04:14:13Z",
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1655
+            "stars": 1656
           }
         },
         {
@@ -559,10 +559,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:26:35.664Z",
+    "last_updated": "2026-02-08T04:29:47.703Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Detection Engineering with stars"
   }
 }
