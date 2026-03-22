@@ -32,9 +32,9 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 ## Detection Content & Signatures
 
-* [Sigma Rules](https://github.com/Neo23x0/sigma) ⭐ 10,215 | 🐛 106 | 🌐 Python | 📅 2026-03-19 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
+* [Sigma Rules](https://github.com/Neo23x0/sigma) ⭐ 10,218 | 🐛 107 | 🌐 Python | 📅 2026-03-19 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
 * [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,525 | 🐛 201 | 🌐 Python | 📅 2026-03-20 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
-* [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) ⭐ 1,665 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
+* [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) ⭐ 1,667 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
 * [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,589 | 🐛 20 | 🌐 Python | 📅 2026-03-18 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 * [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) ⭐ 1,389 | 🐛 8 | 🌐 YARA | 📅 2026-03-16 - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
 * [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) ⭐ 1,389 | 🐛 8 | 🌐 YARA | 📅 2026-03-16 - Elastic's YARA signatures, which run on the Elastic endpoint agent.
@@ -47,7 +47,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 * [Detection Engineering with Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk) ⭐ 68 | 🐛 0 | 📅 2024-04-29 - A GitHub repo dedicated to sharing detection analytics in SPL.
 * [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Library-CIM2) ⭐ 28 | 🐛 1 | 📅 2026-03-16 - Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.
 * [TerraSigma](https://github.com/Khadinxc/TerraSigma) ⭐ 2 | 🐛 0 | 🌐 HCL | 📅 2026-03-08 - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
-* [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-04 - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
+* [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-22 - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 * [Rulehound](https://rulehound.com) - An index of publicly available and open-source threat detection rulesets.
 * [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org) - MITRE's well-maintained repository of detection content.
 * [CAR Coverage Comparision](https://car.mitre.org/coverage/) - A matrix of MITRE ATT\&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.
@@ -61,9 +61,9 @@ All contributions are welcome, please carefully review the [contributing guideli
 ## Logging, Monitoring & Data Sources
 
 * [Elastalert | Yelp](https://github.com/Yelp/elastalert) ⭐ 8,001 | 🐛 1,400 | 🌐 Python | 📅 2024-08-07 - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
-* [Loghub](https://github.com/logpai/loghub) ⭐ 2,605 | 🐛 2 | 📅 2026-03-20 - Opensource and freely available security data sources for research and testing.
-* [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,779 | 🐛 51 | 📅 2025-11-27 - Linux auditd ruleset that produces telemetry required for threat detection use cases.
-* [Matano](https://github.com/matanolabs/matano) ⭐ 1,662 | 🐛 55 | 🌐 Rust | 📅 2025-01-08 - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
+* [Loghub](https://github.com/logpai/loghub) ⭐ 2,606 | 🐛 2 | 📅 2026-03-21 - Opensource and freely available security data sources for research and testing.
+* [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,780 | 🐛 51 | 📅 2025-11-27 - Linux auditd ruleset that produces telemetry required for threat detection use cases.
+* [Matano](https://github.com/matanolabs/matano) ⭐ 1,663 | 🐛 55 | 🌐 Rust | 📅 2025-01-08 - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
 * [Exabeam Common Information Model](https://github.com/ExabeamLabs/CIMLibrary) ⭐ 10 | 🐛 1 | 📅 2026-02-02 - Exabeam's proprietary model used as a framework for normalizing security data.
 * [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets) - Multiple cheatsheets outlined recommendations for Windows Event logging at various levels of granularity.
 * [MITRE ATT\&CK Data Sources Blog Post](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f) - MITRE describes various data sources and how they relate to the TTPs found in the MITRE ATT\&CK framework.
