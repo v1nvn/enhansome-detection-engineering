@@ -130,7 +130,7 @@
             "last_commit": "2026-03-19T09:26:30Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10235
+            "stars": 10241
           }
         },
         {
@@ -150,10 +150,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-25T19:02:33Z",
+            "last_commit": "2026-03-26T19:57:59Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1591
+            "stars": 1592
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-26T02:26:31Z",
+            "last_commit": "2026-03-26T20:27:33Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2531
+            "stars": 2534
           }
         },
         {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-26T03:16:16Z",
+            "last_commit": "2026-03-27T03:15:57Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1390
+            "stars": 1392
           }
         },
         {
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-26T03:16:16Z",
+            "last_commit": "2026-03-27T03:15:57Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1390
+            "stars": 1392
           }
         },
         {
@@ -202,10 +202,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-03-26T03:16:16Z",
+            "last_commit": "2026-03-27T03:15:57Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1390
+            "stars": 1392
           }
         },
         {
@@ -241,7 +241,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-25T15:11:09Z",
+            "last_commit": "2026-03-26T19:00:36Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 441
@@ -337,7 +337,7 @@
             "last_commit": "2026-03-22T04:11:37Z",
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2025-11-27T15:05:27Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1784
+            "stars": 1785
           }
         },
         {
@@ -427,10 +427,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-25T05:22:42Z",
+            "last_commit": "2026-03-26T05:40:47Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2613
+            "stars": 2615
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-01-08T04:14:13Z",
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2024-01-15T16:42:40Z",
             "owner": "inodee",
             "repo": "threathunting-spl",
-            "stars": 291
+            "stars": 292
           }
         },
         {
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:30:00.061Z",
+    "last_updated": "2026-03-27T04:31:10.663Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
