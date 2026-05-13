@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-05-11T03:27:46Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10430
+            "stars": 10432
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T10:49:05Z",
+            "last_commit": "2026-05-12T16:01:29Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1624
+            "stars": 1625
           }
         },
         {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T21:42:33Z",
+            "last_commit": "2026-05-13T00:21:33Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2577
+            "stars": 2574
           }
         },
         {
@@ -254,10 +254,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T16:23:34Z",
+            "last_commit": "2026-05-12T16:59:29Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -440,10 +440,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-11T07:40:45Z",
+            "last_commit": "2026-05-12T06:36:51Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2692
+            "stars": 2694
           }
         },
         {
@@ -484,10 +484,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-12T03:25:26Z",
+            "last_commit": "2026-05-13T05:43:09Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 131
+            "stars": 136
           }
         }
       ],
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:34:27.854Z",
+    "last_updated": "2026-05-13T05:44:12.029Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
