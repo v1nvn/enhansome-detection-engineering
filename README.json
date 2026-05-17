@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 876
+            "stars": 875
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-04-30T20:27:46Z",
             "owner": "rolandpg",
             "repo": "zettelforge",
-            "stars": 35
+            "stars": 36
           }
         }
       ],
@@ -143,7 +143,7 @@
             "last_commit": "2026-05-15T02:23:11Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10446
+            "stars": 10448
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T22:37:08Z",
+            "last_commit": "2026-05-17T02:25:10Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2574
@@ -257,7 +257,7 @@
             "last_commit": "2026-05-15T15:14:53Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 451
+            "stars": 452
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2026-05-13T12:36:02Z",
             "owner": "ExabeamLabs",
             "repo": "CIMLibrary",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -435,15 +435,20 @@
         },
         {
           "children": [],
+          "description": "A SQL-powered operating system instrumentation, monitoring, and analytics framework that exposes OS data as relational tables for querying and detection.",
+          "title": "osquery | Facebook"
+        },
+        {
+          "children": [],
           "description": "Opensource and freely available security data sources for research and testing.",
           "title": "Loghub",
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-15T06:55:18Z",
+            "last_commit": "2026-05-16T06:21:22Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2700
+            "stars": 2701
           }
         },
         {
@@ -469,7 +474,7 @@
             "last_commit": "2025-01-08T04:14:13Z",
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1671
+            "stars": 1672
           }
         },
         {
@@ -484,10 +489,23 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-16T05:06:41Z",
+            "last_commit": "2026-05-17T01:44:09Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 143
+            "stars": 146
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.",
+          "title": "Rustinel | Karib0u",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-13T12:04:51Z",
+            "owner": "Karib0u",
+            "repo": "rustinel",
+            "stars": 284
           }
         }
       ],
@@ -585,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:23:11.804Z",
+    "last_updated": "2026-05-17T05:44:26.551Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
