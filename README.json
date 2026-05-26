@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T20:48:21Z",
+            "last_commit": "2026-05-26T05:04:26Z",
             "owner": "rolandpg",
             "repo": "zettelforge",
             "stars": 39
@@ -143,7 +143,7 @@
             "last_commit": "2026-05-22T09:38:29Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10479
+            "stars": 10483
           }
         },
         {
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-24T07:52:35Z",
+            "last_commit": "2026-05-25T08:23:19Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1631
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-25T05:24:07Z",
+            "last_commit": "2026-05-25T10:26:03Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2590
+            "stars": 2592
           }
         },
         {
@@ -254,7 +254,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T19:33:27Z",
+            "last_commit": "2026-05-25T14:36:23Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 452
@@ -337,7 +337,7 @@
             "last_commit": "2026-05-22T18:07:49Z",
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1699
+            "stars": 1702
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1834
+            "stars": 1837
           }
         },
         {
@@ -445,10 +445,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-24T07:20:09Z",
+            "last_commit": "2026-05-25T08:20:11Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2715
+            "stars": 2718
           }
         },
         {
@@ -489,7 +489,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-25T06:09:49Z",
+            "last_commit": "2026-05-26T03:46:47Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
             "stars": 149
@@ -502,7 +502,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-25T06:19:01Z",
+            "last_commit": "2026-05-25T15:20:49Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 307
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:22:19.369Z",
+    "last_updated": "2026-05-26T06:02:10.800Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
