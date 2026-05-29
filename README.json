@@ -56,7 +56,7 @@
             "last_commit": "2024-01-11T18:45:51Z",
             "owner": "splunk",
             "repo": "salo",
-            "stars": 89
+            "stars": 91
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T12:59:32Z",
+            "last_commit": "2026-05-28T21:59:31Z",
             "owner": "rolandpg",
             "repo": "zettelforge",
             "stars": 40
@@ -143,7 +143,7 @@
             "last_commit": "2026-05-26T07:43:43Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10497
+            "stars": 10505
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T23:27:05Z",
+            "last_commit": "2026-05-28T22:29:47Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1631
+            "stars": 1632
           }
         },
         {
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T01:42:18Z",
+            "last_commit": "2026-05-28T23:36:18Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2592
+            "stars": 2594
           }
         },
         {
@@ -189,7 +189,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T03:15:03Z",
+            "last_commit": "2026-05-28T10:06:55Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T03:15:03Z",
+            "last_commit": "2026-05-28T10:06:55Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -215,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T03:15:03Z",
+            "last_commit": "2026-05-28T10:06:55Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -254,10 +254,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T22:19:23Z",
+            "last_commit": "2026-05-28T16:08:30Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 453
+            "stars": 452
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2024-06-12T14:47:30Z",
             "owner": "GoogleCloudPlatform",
             "repo": "security-analytics",
-            "stars": 367
+            "stars": 368
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1839
+            "stars": 1840
           }
         },
         {
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-27T08:03:50Z",
+            "last_commit": "2026-05-28T07:57:53Z",
             "owner": "logpai",
             "repo": "loghub",
             "stars": 2719
@@ -489,7 +489,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-28T05:53:58Z",
+            "last_commit": "2026-05-29T04:20:23Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
             "stars": 149
@@ -505,7 +505,7 @@
             "last_commit": "2026-05-25T15:20:49Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 310
+            "stars": 320
           }
         }
       ],
@@ -557,7 +557,7 @@
             "last_commit": "2024-02-05T14:04:04Z",
             "owner": "0x4D31",
             "repo": "detection-and-response-pipeline",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:06:43.858Z",
+    "last_updated": "2026-05-29T06:08:43.647Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
