@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T07:43:43Z",
+            "last_commit": "2026-06-01T02:24:49Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10512
+            "stars": 10516
           }
         },
         {
@@ -445,10 +445,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-30T06:44:41Z",
+            "last_commit": "2026-05-31T07:45:22Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2719
+            "stars": 2721
           }
         },
         {
@@ -489,7 +489,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-31T06:08:49Z",
+            "last_commit": "2026-06-01T05:10:20Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
             "stars": 151
@@ -502,10 +502,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-25T15:20:49Z",
+            "last_commit": "2026-05-31T19:05:31Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 341
+            "stars": 346
           }
         }
       ],
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:13:18.564Z",
+    "last_updated": "2026-06-01T06:50:03.403Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
