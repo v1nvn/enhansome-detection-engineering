@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 877
+            "stars": 878
           }
         },
         {
@@ -86,6 +86,11 @@
         },
         {
           "children": [],
+          "description": "A community framework with four maturity levels across ten dimensions for assessing how organizations apply AI and LLMs across a detection engineering program, from foundations through the detection lifecycle.",
+          "title": "Detection Engineering AI Maturity Framework | Brendan Chamberlain"
+        },
+        {
+          "children": [],
           "description": "A longtime detection engineer outlines how a detection engineering program should be built from the ground up.",
           "title": "Prioritizing Detection Engineering | Ryan McGeehan"
         },
@@ -143,7 +148,7 @@
             "last_commit": "2026-06-01T02:24:49Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10525
+            "stars": 10533
           }
         },
         {
@@ -163,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-02T23:24:47Z",
+            "last_commit": "2026-06-04T05:07:28Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1635
+            "stars": 1636
           }
         },
         {
@@ -176,10 +181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-02T22:34:05Z",
+            "last_commit": "2026-06-03T22:07:21Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2602
+            "stars": 2605
           }
         },
         {
@@ -189,7 +194,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T10:06:55Z",
+            "last_commit": "2026-06-04T03:15:51Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -202,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T10:06:55Z",
+            "last_commit": "2026-06-04T03:15:51Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -215,7 +220,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-05-28T10:06:55Z",
+            "last_commit": "2026-06-04T03:15:51Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1434
@@ -254,7 +259,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T16:08:30Z",
+            "last_commit": "2026-06-03T17:51:00Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 452
@@ -392,7 +397,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1843
+            "stars": 1844
           }
         },
         {
@@ -445,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-02T08:37:23Z",
+            "last_commit": "2026-06-03T08:54:27Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2727
+            "stars": 2728
           }
         },
         {
@@ -489,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-03T01:28:41Z",
+            "last_commit": "2026-06-03T22:16:01Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -505,7 +510,7 @@
             "last_commit": "2026-06-02T19:26:56Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 350
+            "stars": 355
           }
         }
       ],
@@ -603,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T06:47:36.535Z",
+    "last_updated": "2026-06-04T06:38:28.053Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
