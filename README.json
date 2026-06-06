@@ -111,7 +111,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T20:24:05Z",
+            "last_commit": "2026-06-05T17:27:52Z",
             "owner": "rolandpg",
             "repo": "zettelforge",
             "stars": 40
@@ -148,7 +148,7 @@
             "last_commit": "2026-06-01T02:24:49Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10535
+            "stars": 10540
           }
         },
         {
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T15:37:59Z",
+            "last_commit": "2026-06-05T16:50:04Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1636
+            "stars": 1637
           }
         },
         {
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T20:22:17Z",
+            "last_commit": "2026-06-05T22:27:35Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2606
@@ -397,7 +397,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1844
+            "stars": 1845
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-04T08:20:18Z",
+            "last_commit": "2026-06-05T08:06:08Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2728
+            "stars": 2731
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2024-08-07T06:30:10Z",
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7997
+            "stars": 7996
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2025-01-08T04:14:13Z",
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -494,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-05T06:01:23Z",
+            "last_commit": "2026-06-05T09:25:37Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-06-04T19:58:42Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 360
+            "stars": 364
           }
         }
       ],
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:17:08.773Z",
+    "last_updated": "2026-06-06T05:50:25.000Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
