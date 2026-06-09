@@ -18,7 +18,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 879
+            "stars": 880
           }
         },
         {
@@ -111,7 +111,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-08T02:05:09Z",
+            "last_commit": "2026-06-09T02:40:59Z",
             "owner": "rolandpg",
             "repo": "zettelforge",
             "stars": 40
@@ -145,10 +145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T02:24:49Z",
+            "last_commit": "2026-06-08T07:40:34Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10545
+            "stars": 10551
           }
         },
         {
@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T16:50:04Z",
+            "last_commit": "2026-06-08T20:59:31Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1638
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T22:27:35Z",
+            "last_commit": "2026-06-08T20:16:05Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2608
@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-06-05T03:16:03Z",
+            "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1434
+            "stars": 1436
           }
         },
         {
@@ -207,10 +207,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-06-05T03:16:03Z",
+            "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1434
+            "stars": 1436
           }
         },
         {
@@ -220,10 +220,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-06-05T03:16:03Z",
+            "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1434
+            "stars": 1436
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1846
+            "stars": 1849
           }
         },
         {
@@ -450,7 +450,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-07T07:54:57Z",
+            "last_commit": "2026-06-08T08:54:22Z",
             "owner": "logpai",
             "repo": "loghub",
             "stars": 2731
@@ -494,7 +494,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-08T03:52:20Z",
+            "last_commit": "2026-06-09T06:00:59Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
             "stars": 155
@@ -510,7 +510,7 @@
             "last_commit": "2026-06-08T05:32:13Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 369
+            "stars": 370
           }
         }
       ],
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:38:15.895Z",
+    "last_updated": "2026-06-09T06:04:53.902Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
