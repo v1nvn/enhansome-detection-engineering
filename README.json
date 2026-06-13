@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T17:05:28Z",
+            "last_commit": "2026-06-12T16:53:10Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1641
@@ -181,10 +181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T19:44:21Z",
+            "last_commit": "2026-06-12T18:30:11Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2612
+            "stars": 2614
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1438
+            "stars": 1439
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1438
+            "stars": 1439
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-06-08T10:08:53Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1438
+            "stars": 1439
           }
         },
         {
@@ -259,7 +259,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T22:20:10Z",
+            "last_commit": "2026-06-12T18:40:33Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 452
@@ -397,7 +397,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1850
+            "stars": 1852
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-11T08:46:02Z",
+            "last_commit": "2026-06-12T08:24:59Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2736
+            "stars": 2740
           }
         },
         {
@@ -494,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-12T06:22:41Z",
+            "last_commit": "2026-06-13T04:55:14Z",
             "owner": "InnerWarden",
             "repo": "innerwarden",
-            "stars": 155
+            "stars": 157
           }
         },
         {
@@ -507,7 +507,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-10T07:30:35Z",
+            "last_commit": "2026-06-12T17:58:10Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 374
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:29:37.471Z",
+    "last_updated": "2026-06-13T06:12:04.236Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "source_repository": "v1nvn/enhansome-detection-engineering",
     "source_repository_description": null,
